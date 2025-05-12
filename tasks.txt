@@ -1,0 +1,10 @@
+Learn PHP,Done
+---
+Use OOP in a to do list project,Done
+---
+Learn about algorithms,Not Started Yet
+---
+Learn about LARAVEL framework,Not Started Yet
+---
+Practice problem solving,Started
+---
