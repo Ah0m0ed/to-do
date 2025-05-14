@@ -21,6 +21,14 @@ Requirements
 - PHP 7.0 or higher
 - Web server (Apache, Nginx, etc.)
 
+Installation
+-----------
+1. Clone the repository:
+   git clone https://github.com/Ah0m0ed/to-do.git
+2. Move the project to your web server's document root
+3. Ensure your web server is configured to handle PHP files
+4. Access the application through your browser (e.g., http://localhost/to-do)
+
 Project Structure
 ----------------
 ```
@@ -33,14 +41,6 @@ to-do/
 ├── tasks.txt          # File-based storage for task data
 └── README.md          # Project documentation
 ```
-
-Installation
------------
-1. Clone the repository:
-   git clone https://github.com/Ah0m0ed/to-do.git
-2. Move the project to your web server's document root
-3. Ensure your web server is configured to handle PHP files
-4. Access the application through your browser (e.g., http://localhost/to-do)
 
 Usage
 -----
