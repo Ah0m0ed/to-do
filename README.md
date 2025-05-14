@@ -30,7 +30,8 @@ to-do/
 ├── updateTask.php     # Handles updating existing tasks
 ├── deleteTask.php     # Handles deleting tasks
 ├── Task.php           # Task model with related methods
-└── tasks.txt          # File-based storage for task data
+├── tasks.txt          # File-based storage for task data
+└── README.md         # Project documentation
 ```
 
 Installation
