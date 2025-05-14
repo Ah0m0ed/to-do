@@ -31,7 +31,7 @@ to-do/
 ├── deleteTask.php     # Handles deleting tasks
 ├── Task.php           # Task model with related methods
 ├── tasks.txt          # File-based storage for task data
-└── README.md         # Project documentation
+└── README.md          # Project documentation
 ```
 
 Installation
