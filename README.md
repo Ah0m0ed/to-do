@@ -1,6 +1,8 @@
 To-Do List Application
 ======================
 
+![Projoct Screenshot](to-do.png)
+
 Overview
 --------
 This is a PHP-based To-Do List application that allows users to:
@@ -39,6 +41,7 @@ to-do/
 ├── deleteTask.php     # Handles deleting tasks
 ├── Task.php           # Task model with related methods
 ├── tasks.txt          # File-based storage for task data
+├── to-do.png          # project screenshot
 └── README.md          # Project documentation
 ```
 
